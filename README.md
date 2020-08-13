@@ -1,1 +1,1 @@
-Medium Blogs
+Medium Blogs and Website Blogs
