@@ -8,6 +8,7 @@
 
 ```python
 # Psuedo Code
+from dbscan2 import dbscan2
 
 test = dbscan2(data, epsilon, min_points)
 test.fit()
