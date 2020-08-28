@@ -9,7 +9,8 @@
 ```python
 # Psuedo Code
 
-test = dbscan2(data, epsilon, min_points).fit()
+test = dbscan2(data, epsilon, min_points)
+test.fit()
 test.predict([[x,y]])
 
 ```
