@@ -13,5 +13,8 @@ test = dbscan2(data, epsilon, min_points)
 test.fit()
 test.predict([[x,y]])
 
+# Make a predicton
+labels = test.predict(data)
+append(data, labels)
 ```
 
