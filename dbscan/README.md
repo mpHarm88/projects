@@ -18,5 +18,3 @@ test.predict([[x,y]])
 labels = test.predict(data)
 append(data, labels)
 ```
-
-
