@@ -1,4 +1,4 @@
-# DBSCAN2
+# DBSCAN 2
 
 - Find the blog for the project [here](https://towardsdatascience.com/dbscan-with-python-743162371dca)
 
